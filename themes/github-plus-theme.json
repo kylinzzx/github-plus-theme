@@ -20,8 +20,8 @@
     "statusBar.border": "#e1e4e8",
     "statusBar.debuggingBackground": "#fafbfc",
     "statusBar.debuggingForeground": "#24292e",
-    "activityBar.background": "#24292e",
-    "activityBar.foreground": "#fafbfc",
+    "activityBar.background": "#f1f2f3",
+    "activityBar.foreground": "#24292e",
     "activityBarBadge.background": "#54a3ff",
     "sideBar.background": "#fafbfc",
     "sideBar.foreground": "#586069",
@@ -37,7 +37,9 @@
     "tab.inactiveBackground": "#fafbfc",
     "tab.border": "#e1e4e8",
     "tab.inactiveForeground": "#586069",
-    "scrollbar.shadow": "#00000000"
+    "scrollbar.shadow": "#00000000",
+    "list.activeSelectionBackground": "#add6ff",
+    "list.activeSelectionForeground": "#626972",
   },
   // User command "Inspect TM Scopes" to know which scope to color
   "tokenColors": [
