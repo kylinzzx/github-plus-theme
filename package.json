@@ -7,10 +7,10 @@
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thenikso/github-plus-theme"
+		"url": "https://github.com/kylinzzx/github-plus-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/thenikso/github-plus-theme/issues"
+		"url": "https://github.com/kylinzzx/github-plus-theme/issues"
 	},
 	"engines": {
 		"vscode": "^1.16.0"
