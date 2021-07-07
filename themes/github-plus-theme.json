@@ -40,6 +40,8 @@
     "scrollbar.shadow": "#00000000",
     "list.activeSelectionBackground": "#add6ff",
     "list.activeSelectionForeground": "#626972",
+    "quickInputList.focusBackground": "#e7e6e5",
+    "quickInputList.focusForeground": "#24292e"
   },
   // User command "Inspect TM Scopes" to know which scope to color
   "tokenColors": [
