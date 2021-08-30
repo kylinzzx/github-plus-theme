@@ -2,7 +2,7 @@
   "type": "light",
   // Reference https://code.visualstudio.com/api/references/theme-color
   "colors": {
-    "focusBorder": "#fafbfc",
+    "focusBorder": "#0366d6",
     "inputOption.activeBorder": "#e36209",
     "editor.background": "#ffffff",
     "editor.foreground": "#24292e",
